@@ -3,3 +3,5 @@
 # =========================
 
 config/db.php
+partials/modais.php
+public/js/modais.js
