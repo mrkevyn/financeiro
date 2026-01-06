@@ -1,0 +1,5 @@
+# =========================
+# Banco de dados / configs sensíveis
+# =========================
+
+config/db.php
